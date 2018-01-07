@@ -1,7 +1,14 @@
-# This is a simple comment with a quick loop
-
-100.times do |n|
-  if n
-    puts "This works"
-  end
-end
+This is where i want Petters code to This is where i want Petters code to
+This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to
+This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to
+This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to
+This is where i want Petters code to 
